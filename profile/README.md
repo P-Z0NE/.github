@@ -28,7 +28,7 @@
   - https://github.com/P-Z0NE/BackEnd/blob/main/docs/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf
 
 - Django Back-End code 
- - https://github.com/Park-Min-Jeong/PZONE-Django-Test
+  - https://github.com/Park-Min-Jeong/PZONE-Django-Test
 
 - Model API code
   - https://github.com/Park-Min-Jeong/YOLO-Test
