@@ -27,8 +27,19 @@
 - 발표 자료
   - https://github.com/P-Z0NE/BackEnd/blob/main/docs/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf
 
+### Part 별 Data   
+
 - Django Back-End code 
   - https://github.com/Park-Min-Jeong/PZONE-Django-Test
 
 - Model API code
   - https://github.com/Park-Min-Jeong/YOLO-Test
+  
+- Cloud Part
+  - https://github.com/P-Z0NE/Cloud
+
+- Big Data Part
+  - https://github.com/P-Z0NE/BigData
+
+- Iot Data Part
+  - https://github.com/P-Z0NE/IOT
